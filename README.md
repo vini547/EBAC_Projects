@@ -1,2 +1,4 @@
 # EBAC_Projects
-Projetos dos módulos de Ciência dos Dados
+##Versão Final do Projeto do Módulo 11
+
+Projeto que utiliza a redução dimensional de datasets para obtenção de insights sobre clientes de um banco.
